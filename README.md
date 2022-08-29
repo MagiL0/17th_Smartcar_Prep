@@ -1,2 +1,7 @@
+<!--
+ * @Author: FYB
+ * @Description: GitHub: https://github.com/magil0
+-->
 # 17th_Smartcar_Prep
-十七届智能车摄像头视觉部分前置文件生成
+
+dont readme, read the readmes in Scripts and test.
